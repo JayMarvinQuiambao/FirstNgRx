@@ -1,6 +1,8 @@
-# NgrxShoppingList
+# Introduction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+
+This project focus is on how to use NgRx.
 
 This project used this following tutorials:
 https://youtu.be/KZkRGm1xC_I
