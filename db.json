@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": "08b50846-b485-4b83-98a9-77e0a5a98588",
+      "name": "Royal"
+    },
+    {
+      "id": "66634c13-410e-418e-8a8c-2c774f743fc0",
+      "name": "Mountain Dew"
+    },
+    {
+      "id": "b968f15d-1d6c-41a3-ad48-6834db73c511",
+      "name": "Coke"
+    }
+  ]
+}
