@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
+This project used this following tutorials:
+https://youtu.be/KZkRGm1xC_I
+https://youtu.be/AnB4g5hWb9k
+
 ## Development server
 
 Run `npm install` to install dependencies.
@@ -9,6 +13,10 @@ Run `npm install` to install dependencies.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Run `json-server --watch db.json` to start the json server.
+
+## Website Preview
+
+![alt text](https://github.com/JayMarvinQuiambao/FirstNgRx/blob/master/ShoppingListPreview.png)
 
 ## Code scaffolding
 
